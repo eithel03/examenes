@@ -3,7 +3,7 @@
  */
 
 package Logica;
-
+import GUI.Interfaz;
 /**
  *
  * @author Eithel
